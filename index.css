@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(209, 222, 230);
+}
+.header-area{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-self: center;
+    align-self: center;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    
+
+}
+footer{
+    background-color: rgb(66, 66, 68);
+    color: #770f0f;
+}
+/* .navbar{
+    background-color: #373f37;
+} */
+/* .menu{
+    background-color: rgb(109, 109, 131);
+} */
+.sbutton{
+    color: #10e722;
+}
+.cbutton{
+    background-color: #770f0f;
+}
+.logo1{
+    width: 200px;
+} 
