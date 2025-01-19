@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="index.css">
-    <title>travel</title>
-</head>
-<body>
-<header class="header-area">
-<div class="logo">
-<!-- <?xml version="1.0" encoding="UTF-8"?> -->
-<svg class="logo1" id="z" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 508.3 163.6">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="z" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 508.3 163.6">
   <defs>
     <style>
       .cls-1 {
@@ -18,7 +7,7 @@
       }
 
       .cls-1, .cls-2 {
-        stroke-width: 200px;
+        stroke-width: 0px;
       }
 
       .cls-2 {
@@ -36,70 +25,3 @@
   <rect class="cls-1" x="447" y="56" width="22.4" height="82.6"/>
   <path class="cls-1" d="M366.6,114.7l30.9-39.8h-33.2v-18.9s50.2,0,50.2,0c6.1,0,11,4.9,11,11h0c0,4.6-1.5,9.2-4.4,12.8l-30.9,39.8h36.7v19h-53.8c-6.1,0-11.1-5-11-11.1h0c0-4.7,1.6-9.2,4.4-12.8h0Z"/>
 </svg>
-</div>
-<!-- navbar -->
-  <!-- <div class="navbar"> -->
-      <div class="menu">
-          <a href="./index.html">Home</a>
-          <a href="./about.html">About</a>
-          <a href="./login.html">login</a>
-          <a href="./signup.html">signup</a>
-          <a href="./jobs.html">jobs</a>
-      </div>
-  <!-- </div> -->
-
-
-        <!-- <button>jobs</button>
-        <button>cv</button>
-        <button>skill</button> -->
-</header>
-    <h1>CANADA</h1>
-    <p>
-      1. Introduction Canada growing industries and favorable immigration policies make it a top destination for foreign workers. With a strong demand for factory workers skilled and unskilled in sectors such as
-    </p>
-    <div>
-      <button>jobs</button>
-      <button>skill</button>
-    </div>
-    <h1>UNITED KINGDOM</h1>
-    <p>
-      Introduction UNITED KINGDOM agricultural industry is a cornerstone of the country's economy,and it continues to offer exciting career opportunities. For those passionate about working with animals [cow,sheeps and goats],crops and modern jobs
-    </p>
-    <div>
-      <button>jobs</button>
-      <button>skill</button>
-    </div>
-    <h1>QATAR</h1>
-    <div>
-      <h3>Qualifications</h3>
-         <ol>
-          <li>Must be 18 years and above</li>
-          <li>Be conversant with English or French</li>
-          <li>Disciplined and ready to work</li>
-        </ol>
-      
-    </div>
-    
-<ul>
-    <li>cook</li>
-    <li>Cleaner</li>
-</ul>
-<ol>
-    <li>cook</li>
-    <li>Cleaner</li>
-</ol>
-   <input type="text">
-   <footer>
-   <h1>
-   @www.simizi.com   
-   </h1> 
-   <h2>
-    0703654407
-   </h2>
-   <h3>
-    simizi@gmail.com
-   </h3>
-   </footer>
-    
-</body>
-</html>
