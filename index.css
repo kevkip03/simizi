@@ -43,3 +43,16 @@ footer{
 .pheading{
     color: #09f744;
 }
+/* .button1{
+    
+    background: #f13404;
+} */
+
+a.button {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+}
