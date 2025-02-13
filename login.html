@@ -1,23 +1,17 @@
 <link rel="stylesheet" href="index.css">
 <h1>login to your account</h1>
-<!-- <div>
-    <input type="text">
+<a href="/codingpractice/vanillajs-01-login/01-login/index.html">login</a>
 
-    <input type="text">
-    <p>Forgot password?</p>
-    <li>
-        <input type="checkbox">Remember me</input>
-        </li>
-        <button>login</button>
-        <p>Don't have an account? Sign Up</p>
-</div> -->
-
-<form>
-    <label for="emaiaddress">Email Address:</label><br>
-    <input type="text" id="emaiaddress" name="emaiaddress"><br>
-    <label for="password">password:</label><br>
+<form method="POST" data-netlify="true">
+    <label>Email Address:</label>
+    <br>
+    <input type="email" id="emaiaddress" name="emaiaddress"><br>
+    <label>password:</label>
+    <br>
     <input type="text" id="password" name="password">
-  </form>
+    <input type="submit" value="Submit">
+    <!-- <button>submit</button> -->
+</form>
   <p>forgot password?</p>
   <li>
     <input type="checkbox">Remember me</input>

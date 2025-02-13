@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2a465f;
+        stroke: #2a465f;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #0070ff;
+      }
+    </style>
+  </defs>
+  <circle class="cls-3" cx="243.61" cy="349.21" r="223.6"/>
+  <circle class="cls-1" cx="395.7" cy="341.68" r="223.6"/>
+  <g>
+    <rect class="cls-2" x="246.83" y="226.43" width="290.37" height="26.2"/>
+    <rect class="cls-2" x="246.83" y="299.54" width="290.37" height="26.2"/>
+    <rect class="cls-2" x="246.83" y="372.67" width="290.37" height="26.2"/>
+    <rect class="cls-3" x="537.2" y="226.43" width="144.46" height="26.2"/>
+    <rect class="cls-3" x="537.2" y="372.67" width="144.46" height="26.2"/>
+    <rect class="cls-3" x="537.2" y="299.54" width="144.46" height="26.2"/>
+    <rect class="cls-3" x="537.2" y="445.79" width="144.46" height="26.2"/>
+    <rect class="cls-2" x="246.83" y="445.79" width="290.37" height="26.2"/>
+  </g>
+</svg>

@@ -1,0 +1,209 @@
+#root {
+  max-width: 1280px;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  /* padding: 1.5em; */
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+/* li{
+  color: black;
+} */
+
+/* .card {
+  padding: 2em;
+} */
+
+/* .read-the-docs {
+  color: #888;
+} */
+
+.hero{
+  color: rgb(87, 87, 233);
+  background-color: rgba(244, 243, 246, 1);
+  overflow: visible;
+  /* display: flex; */
+  justify-content: center;
+  align-self: center;
+  padding: 18px 16px;
+  margin-top: 180px;
+  min-height: 474px;
+}
+.aboutArea{
+  display: flex;
+  justify-content: space-between;
+}
+.findWork{
+  display: flex;
+  /* justify-self: flex-end;  */
+  justify-content: space-between;
+}
+.navArea{
+  display: flex;
+  /* justify-content: center; */
+  justify-content: center;
+  flex-direction: row;
+  list-style-type: none;
+  gap: 0px 10px; 
+  /* justify-content: center; */
+  /* position: fixed;   */
+}
+/* a{
+  list-style: none;
+} */
+
+/* .logonav{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  position: fixed;
+  background: #4099af;
+  
+
+} */
+
+.navdiv{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(255, 255, 255);;
+  /* padding: 5px 0;  */
+  /* margin-bottom: 100px; */
+  z-index: 1000;
+  /* margin-right: auto; */
+
+} 
+.jobs{
+  margin-top: 200px;
+}
+.jobscont{
+  
+  display: flex;
+  align-self: flex-start;
+  margin: 10px;
+}
+.jobsContainer{
+  
+ margin: 20px;
+ list-style-type: none;
+ 
+ 
+}
+.jobsButtons{
+  /* width:100%; */
+  /* background: #000; */
+  display: flex;
+  justify-content: space-evenly;
+}
+.jobsConner{
+  background: #cec8c8;
+  border-radius: 10px
+
+}
+.footer{
+  margin-top: 50px;
+}
+.jobBoard{
+  margin-top: 200px;
+}
+.dropdown-toggle{
+  margin: 20px;
+  background: transparent;
+  transition: border-color 200ms, box-shadow 200ms;
+  min-width: 250px;
+  max-width: 250px;
+  width: 250px;
+  height: 48px;
+}
+.dropdown-menu{
+  list-style-type: none;
+}
+.dropmenus{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  
+}
+.jobheader{
+   display: flex;
+   justify-content: flex-start;
+   color: rgb(33, 106, 216);
+}
+.resourcescontainer{
+  margin-top: 100px;
+  display: flex; 
+  flex-direction: column;
+  gap: 100px;
+
+}
+.resourcesIcons{
+  width: 300px;
+  height: 300px;
+}
+.resTop{
+  display: flex;
+  margin-top: 100px;
+  width: 100%;
+  /* justify-content: center;
+  justify-self: center; */
+}
+.resBottom{
+  display: flex;
+  margin-bottom: 200px;
+}
+.resContainer{
+  /* width: 100%; */
+  height: 100%;
+  background-color: #e6e1e1;
+  margin: 20px;
+  border-radius: 10px;
+}
+.toolsContainer{
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-around;
+  
+
+}
+.toolsBottom{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.toolsTop{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+
+}
+.toolsCard{
+  background-color: rgba(244, 243, 246, 1);
+  width:300px;
+  height:300px;
+  border-radius: 40px;
+  text-decoration: none;
+}
+h3{
+  color:rgb(33, 106, 216);
+}
+.microphone{
+  font-size: 70px;
+}
+.transInput{
+  width: 100%;
+  height: 50px;
+}
+.loginBtn{
+  margin-top: 250px;
+}
+.mpesa{
+  font-size: 300px;
+}
